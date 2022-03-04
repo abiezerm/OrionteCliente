@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@layer components {
+  .inputText {
+    @apply rounded-full p-4 focus:outline-none bg-neutral-100 border-transparent text-gray-600 text-sm;
+
+  }
+  .btn {
+    @apply font-medium rounded-full p-3 text-sm;
+  }
+
+  .btn--primary {
+    @apply bg-sky-500 text-white justify-center focus:outline-none;
+  }
+  .labels {
+    @apply p-3;
+  }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
