@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "LWsP7QFnVqFjOuV5+Pq/wncuH3tPH5eZt1a322Q1WIo=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API/wwwroot",
+      "Source": "API",
+      "ContentRoot": "/Users/alam/LoanApi/LoanAPI/API/wwwroot/",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/alam/LoanApi/LoanAPI/API/wwwroot/oriontek-482c8-firebase-adminsdk-joc41-ad4fbcc816.json",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alam/LoanApi/LoanAPI/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "oriontek-482c8-firebase-adminsdk-joc41-ad4fbcc816.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/oriontek-482c8-firebase-adminsdk-joc41-ad4fbcc816.json"
+    }
+  ]
+}

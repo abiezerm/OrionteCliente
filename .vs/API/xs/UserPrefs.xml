@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{9D8091AD-B157-449E-9FB1-546C585ACDA9}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoanAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BusinessLayer/Exceptions/ExceptionsHandler.cs">
+    <Files>
+      <File FileName="LoanAPI/Controllers/CoreController.cs" Line="12" Column="15" />
+      <File FileName="DataLayer/obj/Debug/net6.0/DataLayer.GlobalUsings.g.cs" Line="9" Column="1" />
+      <File FileName="DataLayer/DBModels/DBContexts/LoanContext.cs" Line="75" Column="71" />
+      <File FileName="BusinessLayer/Repository/GenericRepository.cs" Line="68" Column="25" />
+      <File FileName="LoanAPI/Program.cs" Line="66" Column="1" />
+      <File FileName="LoanAPI/Controllers/ClientController.cs" Line="10" Column="21" />
+      <File FileName="LoanAPI/ProgramConfigurations/ProgramExtension.cs" Line="65" Column="80" />
+      <File FileName="BusinessLayer/Services/Users/FirebaseInit.cs" Line="30" Column="16" />
+      <File FileName="LoanAPI/Controllers/UserController.cs" Line="27" Column="138" />
+      <File FileName="DataLayer/DBModels/Loans/Loan.cs" Line="14" Column="7" />
+      <File FileName="DataLayer/DBModels/Core/CoreModel.cs" Line="19" Column="1" />
+      <File FileName="DataLayer/ViewModels/Requests/LoanRequest.cs" Line="19" Column="1" />
+      <File FileName="DataLayer/ViewModels/Requests/Clients/ClientRequest.cs" Line="1" Column="1" />
+      <File FileName="DataLayer/ViewModels/Core/Request.cs" Line="8" Column="1" />
+      <File FileName="BusinessLayer/Services/Loans/LoanService.cs" Line="7" Column="28" />
+      <File FileName="BusinessLayer/Services/Loans/ILoanService.cs" Line="1" Column="1" />
+      <File FileName="LoanAPI/Controllers/LoanController.cs" Line="1" Column="1" />
+      <File FileName="BusinessLayer/Exceptions/ExceptionsHandler.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoanAPI" expanded="True">
+            <Node name="BusinessLayer" expanded="True">
+              <Node name="Exceptions" expanded="True" />
+            </Node>
+            <Node name="DataLayer" expanded="True" />
+            <Node name="LoanAPI" expanded="True">
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

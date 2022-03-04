@@ -1,0 +1,17 @@
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/bin/Debug/net6.0/BusinessLayer.deps.json
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/bin/Debug/net6.0/BusinessLayer.runtimeconfig.json
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/bin/Debug/net6.0/BusinessLayer.dll
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/bin/Debug/net6.0/ref/BusinessLayer.dll
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/bin/Debug/net6.0/BusinessLayer.pdb
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/bin/Debug/net6.0/DataLayer.dll
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/bin/Debug/net6.0/DataLayer.pdb
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.AssemblyReference.cache
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfoInputs.cache
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfo.cs
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CopyComplete
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.dll
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/ref/BusinessLayer.dll
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.pdb
+/Users/alam/LoanApi/LoanAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/DataLayer.AssemblyInfoInputs.cache
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/DataLayer.AssemblyInfo.cs
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/DataLayer.csproj.CoreCompileInputs.cache
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/DataLayer.csproj.AssemblyReference.cache
+/Users/alam/LoanApi/LoanAPI/DataLayer/bin/Debug/net6.0/DataLayer.deps.json
+/Users/alam/LoanApi/LoanAPI/DataLayer/bin/Debug/net6.0/DataLayer.runtimeconfig.json
+/Users/alam/LoanApi/LoanAPI/DataLayer/bin/Debug/net6.0/DataLayer.dll
+/Users/alam/LoanApi/LoanAPI/DataLayer/bin/Debug/net6.0/ref/DataLayer.dll
+/Users/alam/LoanApi/LoanAPI/DataLayer/bin/Debug/net6.0/DataLayer.pdb
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/DataLayer.dll
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/ref/DataLayer.dll
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/DataLayer.pdb
+/Users/alam/LoanApi/LoanAPI/DataLayer/obj/Debug/net6.0/DataLayer.genruntimeconfig.cache
